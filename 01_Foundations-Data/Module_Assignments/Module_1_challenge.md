@@ -1,3 +1,5 @@
+## Module 1 challenge
+
 ### 1.
 
 Question 1
@@ -6,9 +8,9 @@ Data analysis is the various elements that interact with one another in order to
 
 1 / 1 point
 
-******\[ ]True**
+**\[ ]True**
 
-******\[x]False**
+**\[x]False**
 
 Correct
 
@@ -21,13 +23,13 @@ Fill in the blank: Data ecosystems are made up of elements that \_\_\_\_\_ with 
 
 1 / 1 point
 
-******\[ ]gain insights**
+**\[ ]gain insights**
 
-******\[ ]unite**
+**\[ ]unite**
 
-******\[x]interact**
+**\[x]interact**
 
-******\[ ]problem-solve**
+**\[ ]problem-solve**
 
 Correct
 
@@ -40,13 +42,13 @@ Fill in the blank: Using data to create new ways of understanding and modeling t
 
 1 / 1 point
 
-******\[ ]data design**
+**\[ ]data design**
 
-******\[ ]data analysis**
+**\[ ]data analysis**
 
-******\[x]data science**
+**\[x]data science**
 
-******\[ ]data engineering**
+**\[ ]data engineering**
 
 Correct
 
@@ -59,13 +61,13 @@ Fill in the blank: In data science, \_\_\_\_\_\_\_\_ is when a data analyst uses
 
 1 / 1 point
 
-******\[ ]awareness**
+**\[ ]awareness**
 
-******\[ ]rational thought**
+**\[ ]rational thought**
 
-******\[ ]personal opinion**
+**\[ ]personal opinion**
 
-******\[x]gut instinct**
+**\[x]gut instinct**
 
 Correct
 
@@ -78,17 +80,17 @@ If you are using data-driven decision-making, what action steps would you take? 
 
 1 / 1 point
 
-******\[x]Drawing conclusions from your analysis**
+**\[x]Drawing conclusions from your analysis**
 
 Correct
 
-******\[ ]Surveying customers about results, conclusions, and recommendations**
+**\[ ]Surveying customers about results, conclusions, and recommendations**
 
-******\[x]Sharing your results with subject matter experts**
+**\[x]Sharing your results with subject matter experts**
 
 Correct
 
-******\[x]Gathering and analyzing data**
+**\[x]Gathering and analyzing data**
 
 Correct
 
@@ -101,13 +103,13 @@ To get the most out of data-driven decision-making, it’s important to include 
 
 1 / 1 point
 
-******\[ ]Customers**
+**\[ ]Customers**
 
-******\[ ]Stakeholders**
+**\[ ]Stakeholders**
 
-******\[ ]Competitors**
+**\[ ]Competitors**
 
-******\[x]Subject-matter experts**
+**\[x]Subject-matter experts**
 
 Correct
 
@@ -120,13 +122,13 @@ As a data analyst, you finish analyzing the latest marketing data. If you are fo
 
 1 / 1 point
 
-******\[ ]Create a model based on the results of the analysis**
+**\[ ]Create a model based on the results of the analysis**
 
-******\[ ]Survey customers about results, conclusions, and recommendations**
+**\[ ]Survey customers about results, conclusions, and recommendations**
 
-******\[x]Share the results with subject-matter experts from the marketing team for their input**
+**\[x]Share the results with subject-matter experts from the marketing team for their input**
 
-******\[ ]Archive the datasets in order to keep them secure**
+**\[ ]Archive the datasets in order to keep them secure**
 
 Correct
 
@@ -139,12 +141,12 @@ When citing an article you found in a discussion forum, you should always do wha
 
 1 / 1 point
 
-******\[ ]Check the article for typos or grammatical errors.**
+**\[ ]Check the article for typos or grammatical errors.**
 
-******\[ ]Take credit for creating the article.**
+**\[ ]Take credit for creating the article.**
 
-******\[ ]Include your email address for people to send questions or comments.**
+**\[ ]Include your email address for people to send questions or comments.**
 
-******\[x]Give credit to the original author.**
+**\[x]Give credit to the original author.**
 
 Correct
